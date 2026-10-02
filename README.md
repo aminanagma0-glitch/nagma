@@ -1,0 +1,2 @@
+# nagma
+ai vedio genrator 
